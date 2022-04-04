@@ -1,6 +1,6 @@
 ---
 title: Haolun Wu
-role: Ph.D. Student
+role: Ph.D. Student in Computer Science
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
