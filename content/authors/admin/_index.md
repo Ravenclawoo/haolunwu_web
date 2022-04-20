@@ -4,8 +4,8 @@ role: Ph.D. Student in Computer Science
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Information Retrieval Intelligence
-  - Recommender System Linguistics
+  - Information Retrieval
+  - Recommender System
   - FATE (Fairness, Accountability, Transparency, and Ethics)
   - Causal Reasoning
   - Web3
