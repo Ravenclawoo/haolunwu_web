@@ -31,10 +31,10 @@ organizations:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: McGill University \& MILA
+      institution: McGill University & MILA
       year: 2021-2024
     - course: M.Sc. in Computer Science
-      institution: McGill University \& MILA
+      institution: McGill University & MILA
       year: 2019-2021
     - course: B.Eng. in Computer Science and Engineering
       institution: Northeastern University
@@ -44,8 +44,9 @@ superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a phd student at McGill and MILA supervied by Prof. Xue (Steve) Liu. 
+My research interests include: Information Retrieval, Recommender System, FATE (Fairness, Accountability, Transparency, and Ethics), Causal Reasoning, and Web3. 
+I am committed to using advanced AI techniques to build a better information environment.
+The worst thing I can be is the same as everybody else.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Haolun_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
