@@ -15,20 +15,23 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Haolun_Wu0203
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=-KcBDLcAAAAJ&hl=en
+
+[comment]: <> (  - icon: github)
+
+[comment]: <> (    icon_pack: fab)
+
+[comment]: <> (    link: https://github.com/gcushen)
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/haolun-wu-23ba08133/
 organizations:
   - name: McGill University
     url: https://www.cs.mcgill.ca/
-  - name: Montreal Institute for Learning Algorithms (MILA)
+  - name: MILA - Quebec AI Institue
     url: https://mila.quebec/en/person/haolun-wu/
 education:
   courses:
