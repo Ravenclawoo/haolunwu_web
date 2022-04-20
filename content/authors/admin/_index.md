@@ -46,9 +46,9 @@ superuser: true
 highlight_name: true
 ---
 
-I am a phd student at McGill and MILA supervied by Prof. Xue (Steve) Liu. 
+I am a phd student at McGill and MILA supervied by [Prof. Xue (Steve) Liu](https://mila.quebec/en/person/xue-liu/). 
 My research interests include: Information Retrieval, Recommender System, FATE (Fairness, Accountability, Transparency, and Ethics), Causal Reasoning, and Web3. 
 I am committed to using advanced AI techniques to build a better information environment.
 The worst thing I can be is the same as everybody else.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/HaolunWu_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} You can download my {{< staticref "uploads/HaolunWu_CV.pdf" "newtab" >}}CV here{{< /staticref >}}.
