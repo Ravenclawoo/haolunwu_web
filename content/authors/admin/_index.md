@@ -51,4 +51,4 @@ My research interests include: Information Retrieval, Recommender System, FATE (
 I am committed to using advanced AI techniques to build a better information environment.
 The worst thing I can be is the same as everybody else.
 
-{{< icon name="download" pack="fas" >}} You can download my {{< staticref "uploads/HaolunWu_CV.pdf" "newtab" >}}CV here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} You can find my {{< staticref "uploads/HaolunWu_CV.pdf" "newtab" >}}CV here{{< /staticref >}}.
