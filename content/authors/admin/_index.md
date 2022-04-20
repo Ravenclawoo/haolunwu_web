@@ -30,7 +30,7 @@ organizations:
     url: https://www.cs.mcgill.ca/
   - name: Montreal Institute for Learning Algorithms (MILA)
     url: https://mila.quebec/en/person/haolun-wu/
-Academic Training & Diplomas:
+education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: McGill University & MILA
