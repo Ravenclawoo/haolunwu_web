@@ -31,15 +31,15 @@ organizations:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+      institution: McGill University \& MILA
+      year: 2021-2024
+    - course: M.Sc. in Computer Science
+      institution: McGill University \& MILA
+      year: 2019-2021
+    - course: B.Eng. in Computer Science and Engineering
+      institution: Northeastern University
+      year: 2015-2019
+email: "haolun.wu@mail.mcgill.ca; haolun.wu@mila.quebec"
 superuser: true
 highlight_name: true
 ---
