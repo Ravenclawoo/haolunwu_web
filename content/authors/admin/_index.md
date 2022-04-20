@@ -4,9 +4,11 @@ role: Ph.D. Student in Computer Science
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Information Retrieval Intelligence
+  - Recommender System Linguistics
+  - FATE (Fairness, Accountability, Transparency, and Ethics)
+  - Causal Reasoning
+  - Web3
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,7 +30,7 @@ organizations:
     url: https://www.cs.mcgill.ca/
   - name: Montreal Institute for Learning Algorithms (MILA)
     url: https://mila.quebec/en/person/haolun-wu/
-education:
+Academic Training & Diplomas:
   courses:
     - course: PhD in Artificial Intelligence
       institution: McGill University & MILA
